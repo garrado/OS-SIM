@@ -2,9 +2,9 @@
 // Configuração do Firebase
 // ============================
 const firebaseConfig = {
-  apiKey: "SEU_API_KEY",
-  authDomain: "SEU_PROJECT_ID.firebaseapp.com",
-  projectId: "SEU_PROJECT_ID"
+  apiKey: "AIzaSyDo473puJesZ9rr3IBoX5AWczCIMuKBTrg",
+  authDomain: "visam-3a30b.firebaseapp.com",
+  projectId: "visam-3a30b"
 };
 
 firebase.initializeApp(firebaseConfig);
